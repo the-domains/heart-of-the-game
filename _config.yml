@@ -1,0 +1,28 @@
+name: Heart of the Game
+favicon: null
+layout_spectrum: 0.2899884234648198
+typography_spectrum: 0.8058439851738513
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.04731914703734219
+  lightness: 0.8574532938655466
+  saturation: 0.24076385842636228
+  rhythmicContrast: 0.5218304751906544
+purpose: []
